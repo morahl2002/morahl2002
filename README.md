@@ -9,6 +9,10 @@ Hailing from indigenous and Polynesian roots, I am constantly driven by getting 
 
 # Projects 
 
-[Momodex](https://momodex.onrender.com/)
+[Momodex](https://momodex.onrender.com/) | [Repo](https://github.com/Hotoke-2026/Momodex)
 
 Built as a one-week group project during DevAcademy, Momodex is a gamified citizen-science app that turns real-world nature observations into a collectible card and battle game built to get more people outside, observing New Zealand's native and invasive species, and (eventually) contributing that data back to real conservation research.
+
+# Currently Working On...
+
+My Portfolio! Under construction right now, but I am redesigning and developing my old portfolio from when I was just a humble UX designer to a much more robust version using the full-stack tools I've learnt.
